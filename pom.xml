@@ -58,9 +58,9 @@
 
      <!--TODO uncommet following at the time of releasing this bundle-->
     <!--<scm>-->
-        <!--<connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/bundles/extensions/fsresource</connection>-->
-        <!--<developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/bundles/extensions/fsresource</developerConnection>-->
-        <!--<url>http://svn.apache.org/viewvc/sling/trunk/bundles/extensions/fsresource</url>-->
+        <!--<connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-cassandra.git</conncetion>-->
+        <!--<developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-cassandra.git</developerConnection>-->
+        <!--<url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-cassandra.git</url>-->
     <!--</scm>-->
 
     <build>
