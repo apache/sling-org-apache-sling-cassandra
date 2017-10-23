@@ -58,7 +58,7 @@
 
      <!--TODO uncommet following at the time of releasing this bundle-->
     <!--<scm>-->
-        <!--<connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-cassandra.git</conncetion>-->
+        <!--<connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-cassandra.git</connection>-->
         <!--<developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-cassandra.git</developerConnection>-->
         <!--<url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-cassandra.git</url>-->
     <!--</scm>-->
