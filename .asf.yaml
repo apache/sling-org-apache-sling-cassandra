@@ -1,5 +1,5 @@
 github:
-  description: "Apache Sling Cassandra Resource Provider"
+  description: "Apache Sling Cassandra Resource Provider (deprecated)"
   homepage: "https://sling.apache.org/"
   labels:
   - "sling"
